@@ -23,3 +23,17 @@ Now name it and at the and put ".html"
 Like this:![image](https://user-images.githubusercontent.com/111968057/187056923-930a38c2-084a-4de1-b6fc-1d6e23138373.png)
 Now copy this code:
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title of your website</title>
+</head>
+<body>
+    <h1>Type whatever you want in here</h1>
+    <p>Type whatever you want in here</p>
+
+</body>
+
+</html>
+
