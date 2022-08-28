@@ -30,3 +30,8 @@ Once done press file and press "save"
 
 Now i want you to go to your folders and find the Vs Code folder and open it
 ![image](https://user-images.githubusercontent.com/111968057/187057557-9c36a7c7-947e-44bb-8ee4-a4c1a29eee21.png)
+
+Once the folder is open Right click the one that says the name of your website
+And press open and BOOM you have created a website!!!!
+
+Let me know if something wont work!
