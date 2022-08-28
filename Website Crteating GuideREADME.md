@@ -15,3 +15,11 @@ Then press "New Folder"
 ![image](https://user-images.githubusercontent.com/111968057/187056738-ce0d1fff-185e-4ff7-bff4-a9ba9b6b5378.png)
 New Folder is At the top left if you cant see it
 Then Name the folder Tip: Name the folder something that you wont forget like: "Vs code testing"
+And BOOM! you should see a your folder that you just created in vs code
+Now lets get in to creating a website!
+Now hover over the name of your folder in Vs Code and press the folder icon
+![image](https://user-images.githubusercontent.com/111968057/187056888-5d6a46b8-a3fb-4e44-a4b9-16774bfefdb5.png)
+Now name it and at the and put ".html"
+Like this:![image](https://user-images.githubusercontent.com/111968057/187056923-930a38c2-084a-4de1-b6fc-1d6e23138373.png)
+Now copy this code:
+
