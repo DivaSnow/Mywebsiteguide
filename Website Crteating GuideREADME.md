@@ -21,6 +21,12 @@ Now hover over the name of your folder in Vs Code and press the folder icon
 ![image](https://user-images.githubusercontent.com/111968057/187056888-5d6a46b8-a3fb-4e44-a4b9-16774bfefdb5.png)
 Now name it and at the and put ".html"
 Like this:![image](https://user-images.githubusercontent.com/111968057/187056923-930a38c2-084a-4de1-b6fc-1d6e23138373.png)
-Now copy this code:
+Now copy this code into Vs Code:
 
 ![image](https://user-images.githubusercontent.com/111968057/187057409-f030985c-b5e0-40d4-8e99-9d77da038f16.png)
+
+Once done press file and press "save"
+![image](https://user-images.githubusercontent.com/111968057/187057531-2a6a54ac-2517-4eba-ab12-7eb5468bab2c.png)
+
+Now i want you to go to your folders and find the Vs Code folder and open it
+![image](https://user-images.githubusercontent.com/111968057/187057557-9c36a7c7-947e-44bb-8ee4-a4c1a29eee21.png)
